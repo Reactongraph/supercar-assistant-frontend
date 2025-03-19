@@ -117,9 +117,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 NEXT_PUBLIC_APP_NAME=SuperCar Assistant
 NEXT_PUBLIC_APP_ENV=development
 
-# Feature Flags
-NEXT_PUBLIC_ENABLE_WEATHER=true
-NEXT_PUBLIC_ENABLE_APPOINTMENTS=true
 ```
 
 ## Available Scripts
@@ -203,9 +200,6 @@ The application implements comprehensive error handling:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
